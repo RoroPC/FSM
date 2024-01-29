@@ -1,0 +1,7 @@
+README.md
+setup.py
+FSM.egg-info/PKG-INFO
+FSM.egg-info/SOURCES.txt
+FSM.egg-info/dependency_links.txt
+FSM.egg-info/top_level.txt
+tests/test_machine_editor.py

@@ -1,0 +1,11 @@
+exceptiongroup==1.2.0
+flake8==7.0.0
+-e git+ssh://git@github.com/RoroPC/FSM.git@0e5f551c31f4ecefed30ed43d28e5ec676ce5f1b#egg=FSM
+iniconfig==2.0.0
+mccabe==0.7.0
+packaging==23.2
+pluggy==1.4.0
+pycodestyle==2.11.1
+pyflakes==3.2.0
+pytest==7.4.4
+tomli==2.0.1
