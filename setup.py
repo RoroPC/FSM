@@ -3,6 +3,5 @@ setup(
         name="FSM",
         version="1.0.0",
         description="Finite State Machine manager",
-        packages=find_packages(where="src"),
-        package_dir={"": "src"},
+        packages=find_packages(where="FSM"),
 )

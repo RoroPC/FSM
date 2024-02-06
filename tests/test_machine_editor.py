@@ -1,5 +1,5 @@
 import unittest
-from editor import MachineEditor
+from src.editor.editor import MachineEditor
 
 class TestMachineEditor(unittest.TestCase):
 
